@@ -4,9 +4,8 @@
   <img align="left" alt="Tejesh More | Linkedin" width="20px" src="https://raw.githubusercontent.com/tejeshMore-dev/tejeshMore-dev/master/assets/linkedin.svg" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=harsh07bharvada&style=flat-square)
 <br />
-<br />
-
 - 🔭 I’m currently working on Node.js, Express.js & MongoDB ( Too mainstream right! )
 - 🌱 I’m currently learning System Design
 - 🤔 I’m looking for help with System Design
@@ -15,8 +14,7 @@
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
 - ⚡ Fun fact: If I only had to eat one food for the rest of my life, it would be chicken biryani.....
 
-
-
+![Tejesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejeshMore-dev&show_icons=true&theme=dracula)
 
 **Languages and Tools:**  
 
@@ -24,3 +22,9 @@
 <code><img height="20" width="20" src="https://raw.githubusercontent.com/tejeshMore-dev/tejeshMore-dev/master/assets/angular.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tejeshMore-dev/tejeshMore-dev/master/assets/figma.svg"></code>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
