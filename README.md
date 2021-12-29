@@ -4,7 +4,7 @@
   <img align="left" alt="Tejesh More | Linkedin" width="20px" src="https://raw.githubusercontent.com/tejeshMore-dev/tejeshMore-dev/master/assets/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=harsh07bharvada&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tejeshMore-dev&style=flat-square)
 <br />
 - 🔭 I’m currently working on Node.js, Express.js & MongoDB ( Too mainstream right! )
 - 🌱 I’m currently learning System Design
