@@ -8,8 +8,8 @@
 <br />
 
 - 🔭 I’m currently working on Node.js, Express.js & MongoDB ( Too mainstream right! )
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with React
+- 🌱 I’m currently learning System Design
+- 🤔 I’m looking for help with System Design
 - 💬 Ask me about web devlopement or any tech-related stuff.
 - 📫 How to reach me: [tejeshmore.dev@gmail.com](mailto:tejeshmore.dev@gmail.com)
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
